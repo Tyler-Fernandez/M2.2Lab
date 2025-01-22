@@ -32,4 +32,9 @@ Running this command should verify 5 tests passing.
 
 ## Changes
 
-I added a test that verifies the addition of two float values. 
+Added a test that verifies the addition of two float values. 
+
+Added a picture of myself, 5 CSS styles, and a few short facts about me.
+
+Changed helloWorld function to display an alert dialog box in addition to printing it to the console.
+
