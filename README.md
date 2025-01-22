@@ -27,3 +27,9 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+Running this command should verify 5 tests passing.
+
+## Changes
+
+I added a test that verifies the addition of two float values. 
